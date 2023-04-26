@@ -1,2 +1,2 @@
 # MachineLearning-Algorithms
-Mô tả lại các thuật toán MachineLearning.
+Implement Machine Learning Algorithms in Python
