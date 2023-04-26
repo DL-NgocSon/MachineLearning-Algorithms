@@ -1,5 +1,0 @@
-K-Nearest neighbor:
-	Là một trong những thuật toán supervised-learning đơn giản trong ML. Khi train thuật toán này sẽ không hỏi từ dữ liệu.
-	+ KNN có thể áp dụng được vào cả hai loại bài toán Supervised Learning là Classification và Regression.
-
-Dùng để phân cụm dữ liệu.
